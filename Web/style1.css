@@ -1,0 +1,13 @@
+
+p.main{font-size:1.1em; font-family:'Comic Sans MS', Arial; font-style: italic;}
+h3{font: italic 1.5em Arial;}
+ol{list-style-type:lower-alpha;}
+ol ol{list-style-type:decimal;}
+ol ol ol{list-style-type:lower-roman;} 
+img{float:right}
+li.red{color:red;}
+li.green{color:green;}
+.imp{font: bold 1.5em Cavet;}
+.ch{font: italic 1em Cavet; color:blue;}
+p.one{margin:20px; padding:10px; border-style:solid;}
+body{background-image: url(b2.jpeg); background-repeat:no-repeat; background-size:2000px 900px; }
